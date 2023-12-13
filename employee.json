@@ -1,0 +1,20 @@
+[
+  {
+    "Code": "ABC123",
+    "Name": "John Doe",
+    "Image": "https://example.com/john_doe.jpg",
+    "Gender": "Male"
+  },
+  {
+    "Code": "DEF456",
+    "Name": "Jane Doe",
+    "Image": "https://example.com/jane_doe.jpg",
+    "Gender": "Female"
+  },
+  {
+    "Code": "GHI789",
+    "Name": "Alex Smith",
+    "Image": "https://example.com/alex_smith.jpg",
+    "Gender": "Male"
+  }
+]
